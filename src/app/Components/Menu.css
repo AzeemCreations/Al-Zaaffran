@@ -1,0 +1,55 @@
+.menu-box {
+    padding-top: 25vh;
+}
+
+/* Container for the items */
+.special-list {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -15px;
+    /* Adjust margin if necessary */
+}
+
+/* Transition styles for the items */
+.special-grid {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+    margin-bottom: 30px;
+    /* Adjust spacing as necessary */
+}
+
+.special-grid.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.menu-flters li {
+    font-family: "Agency FB";
+}
+
+.download-btn {
+    position: relative;
+    border: 2px solid #cda45e;
+    color: #fff;
+    border-radius: 50px;
+    padding: 8px 25px;
+    text-transform: uppercase;
+    font-size: 2vh;
+    font-weight: 700;
+    letter-spacing: 1px;
+    transition: 0.3s;
+    background: transparent;
+}
+
+.download-btn:hover {
+    background-color: #cda45e;
+    color: white;
+}
+
+.menu-sect {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 4vh;
+}

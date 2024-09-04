@@ -1,0 +1,43 @@
+* {
+    /* font-family: "New Amsterdam Regular"; */
+    /* font-family: "Coolvetica"; */
+    /* font-family: "ROG Fonts"; */
+    font-family: "Agency FB";
+}
+
+*::selection {
+    background-color: #ffc766;
+    color: #111;
+}
+
+.banner {
+    position: relative;
+    height: 120vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#heading {
+    position: absolute;
+    display: block;
+    top: 30%;
+    left: 15%;
+    font-size: 7vw;
+    color: #ffa600;
+    padding: 3vw 2vw;
+    backdrop-filter: blur(3px);
+    border-radius: 0.50rem;
+    background-color: #11111152;
+    -webkit-text-stroke: 0.1vw black;
+    max-width: 70vw;
+    text-align: center;
+    z-index: 2;
+}
+
+.col-lg-8 h2 {
+    font-family: "Agency FB";
+    font-style: italic;
+}

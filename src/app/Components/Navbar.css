@@ -1,0 +1,26 @@
+.logo {
+    width: 250px;
+}
+
+.languages img {
+    width: 20px;
+    margin: 1vw;
+    margin-left: 0;
+}
+
+#topbar {
+    font-size: 2px;
+    font-family: "Agency FB";
+    letter-spacing: 3px;
+    font-weight: 500;
+}
+
+#navbar {
+    font-family: "Agency FB";
+    letter-spacing: 3px;
+    font-weight: 300;
+}
+
+#navbar li a {
+    font-size: 3vh;
+}
