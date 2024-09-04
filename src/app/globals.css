@@ -1,3 +1,7 @@
+* {
+    font-family: "Agency FB", "Agency FB";
+}
+
 ::-webkit-scrollbar {
     width: 0.5px;
     background-color: black;
