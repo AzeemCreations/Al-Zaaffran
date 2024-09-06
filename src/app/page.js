@@ -11,6 +11,7 @@ import Reviews from "./Components/Reviews";
 import Contact from "./Components/Contact";
 import Footer from "./Components/Footer";
 import BookTable from "./Components/BookTable";
+import Special from "./Components/Special";
 
 export default function Home() {
 
@@ -20,6 +21,7 @@ export default function Home() {
       <Banner />
       <About />
       <Menu />
+      <Special />
       <Events />
       <BookTable />
       <Reviews />
