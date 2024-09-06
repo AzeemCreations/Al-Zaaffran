@@ -20,7 +20,6 @@ export default function RootLayout({ children }) {
         <link href="/Restaurantly/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet" />
         <link href="/Restaurantly/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
         <link href="/Restaurantly/assets/css/style.css" rel="stylesheet" />
-
       </head>
       <body>{children}
 
