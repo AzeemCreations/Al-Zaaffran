@@ -1,11 +1,11 @@
 "use client"
 import React, { useEffect, useState } from 'react'
-import slider1 from "../../../public/assets/images/Sliders/slider-01.jpg"
-import slider2 from "../../../public/assets/images/Sliders/slider-02.jpg"
-import slider3 from "../../../public/assets/images/Sliders/slider-03.jpg"
-import slider4 from "../../../public/assets/images/Sliders/slider-04.jpg"
-import slider5 from "../../../public/assets/images/Sliders/slider-05.jpg"
-import slider6 from "../../../public/assets/images/Sliders/slider-06.jpg"
+import slider1 from "../../../public/assets/images/Exterior/img2.jpg"
+import slider2 from "../../../public/assets/images/Interior/img4.jpg"
+import slider3 from "../../../public/assets/images/Exterior/img3.jpg"
+import slider4 from "../../../public/assets/images/Interior/img1.jpg"
+import slider5 from "../../../public/assets/images/Exterior/img4.jpg"
+import slider6 from "../../../public/assets/images/Interior/img3.jpg"
 import "./Banner.css"
 
 export default function Banner() {

@@ -36,7 +36,6 @@ export default function Navbar() {
                             <li><a className="nav-link scrollto" href="#menu">Menu</a></li>
                             <li><a className="nav-link scrollto" href="#specials">Specials</a></li>
                             <li><a className="nav-link scrollto" href="#events">Events</a></li>
-                            <li><a className="nav-link scrollto" href="#chefs">Chefs</a></li>
                             <li><a className="nav-link scrollto" href="#reviews">Reviews</a></li>
                             <li><a className="nav-link scrollto" href="#gallery">Gallery</a></li>
                             {/* <li className="dropdown"><a href="#"><span>Drop Down</span> <i className="bi bi-chevron-down"></i></a>

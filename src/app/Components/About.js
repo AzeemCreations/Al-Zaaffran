@@ -2,7 +2,7 @@
 import React, { useState } from 'react'
 import "./About.css"
 import outside from "../../../public/assets/images/outside1.png"
-import aboutbg from "../../../public/assets/images/Sliders/slider-01.jpg"
+import aboutbg from "../../../public/assets/images/Exterior/img4.jpg"
 
 export default function About() {
     return (

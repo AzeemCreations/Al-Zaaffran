@@ -10,7 +10,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "", sans-serif;
+  font-family: "Agency FB", sans-serif;
   background: #0c0b09;
   color: #fff;
 }
@@ -31,7 +31,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Playfair Display", serif;
+  font-family: "Agency FB", serif;
 }
 
 /*--------------------------------------------------------------
