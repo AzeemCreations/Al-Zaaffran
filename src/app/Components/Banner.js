@@ -44,7 +44,7 @@ export default function Banner() {
 
                         <div className="btns">
                             <a href="#menu" className="btn-menu animated fadeInUp scrollto">Our Menu</a>
-                            <a href="#special" className="btn-book animated fadeInUp scrollto">Chef's Special</a>
+                            <a href="#specials" className="btn-book animated fadeInUp scrollto">Chef's Special</a>
                         </div>
                     </div>
                     <div className="col-lg-4 d-flex align-items-center justify-content-center position-relative" data-aos="zoom-in" data-aos-delay="200">

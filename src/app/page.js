@@ -12,11 +12,13 @@ import Contact from "./Components/Contact";
 import Footer from "./Components/Footer";
 import BookTable from "./Components/BookTable";
 import Special from "./Components/Special";
+import OfferModal from "./Components/OfferModal";
 
 export default function Home() {
 
   return (
     <div id="main">
+      {/* <OfferModal /> */}
       <Navbar />
       <Banner />
       <About />
