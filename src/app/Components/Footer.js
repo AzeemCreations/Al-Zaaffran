@@ -44,7 +44,7 @@ export default function Footer() {
                         &copy; Copyright <strong><span>Al Zaaffran</span></strong>. All Rights Reserved
                     </div>
                     <div className="credits">
-                        Designed by <a href="#">RG Software Solutions</a>
+                        Designed by <a href="https://www.softtecheducation.in/">Soft-Tech Kohapur</a>
                     </div>
                 </div>
             </footer>
